@@ -1,4 +1,4 @@
-### Classification Overview
+### Classification
 
 ##### -> AI provides us with various classification techniques, but machine learning classification would be the best to start with as it is the most common one.
 
